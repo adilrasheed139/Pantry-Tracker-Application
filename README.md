@@ -1,3 +1,4 @@
+## Author: Adil Rasheed
 ### **Pantry Tracker Application**
 
 #### **Overview**
